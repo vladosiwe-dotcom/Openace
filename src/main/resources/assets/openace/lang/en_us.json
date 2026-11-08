@@ -1,0 +1,5 @@
+{
+  "commands.openace.awaken": "Awakening started: %s",
+  "openace.configuration.enabled": "Awakening scene on joining",
+  "openace.configuration.everyJoin": "On every join"
+}

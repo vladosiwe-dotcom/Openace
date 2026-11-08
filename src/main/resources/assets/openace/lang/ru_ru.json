@@ -1,0 +1,5 @@
+{
+  "commands.openace.awaken": "Пробуждение запущено: %s",
+  "openace.configuration.enabled": "Сцена пробуждения при входе",
+  "openace.configuration.everyJoin": "При каждом входе"
+}
